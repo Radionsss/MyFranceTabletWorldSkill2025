@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Байтерек",
+        "description": "Главный символ города Астаны. Башня с обзорной площадкой на высоте 97 метров.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1281,
+        "longitude": 71.4306
+    },
+    {
+        "name": "Хан Шатыр",
+        "description": "Крупный торгово-развлекательный центр в форме шатра, спроектированный Норманом Фостером.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1325,
+        "longitude": 71.403
+    },
+    {
+        "name": "Пирамида Мира и Согласия",
+        "description": "Конференц-центр в форме пирамиды, предназначенный для межрелигиозного диалога.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1169,
+        "longitude": 71.458
+    },
+    {
+        "name": "Астана Опера",
+        "description": "Национальный театр оперы и балета, один из крупнейших в Центральной Азии.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1278,
+        "longitude": 71.428
+    },
+    {
+        "name": "Мечеть Хазрет Султан",
+        "description": "Одна из крупнейших мечетей в Казахстане с белоснежными куполами и величественными минаретами.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1163,
+        "longitude": 71.4767
+    },
+    {
+        "name": "ЭКСПО 2017 (Нур Алем)",
+        "description": "Шар-музей, главный павильон международной выставки ЭКСПО-2017, посвящён энергии будущего.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.0907,
+        "longitude": 71.4187
+    },
+    {
+        "name": "Президентский парк",
+        "description": "Огромный зелёный парк в центре города для прогулок и отдыха.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1189,
+        "longitude": 71.4451
+    },
+    {
+        "name": "Национальный музей Казахстана",
+        "description": "Крупнейший музей страны с современными экспозициями об истории Казахстана.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1154,
+        "longitude": 71.4724
+    },
+    {
+        "name": "Ботанический сад",
+        "description": "Новое место для прогулок с зонами отдыха, садами и водоёмами в районе Есиль.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.0969,
+        "longitude": 71.4264
+    },
+    {
+        "name": "Монумент «Казахстан»",
+        "description": "Монумент, символизирующий независимость Казахстана, с золотым орлом на вершине.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1342,
+        "longitude": 71.4033
+    },
+    {
+        "name": "Ак Орда",
+        "description": "Резиденция Президента Республики Казахстан с красивыми мраморными фасадами и золотым куполом.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1286,
+        "longitude": 71.4461
+    },
+    {
+        "name": "Дворец Мира и Согласия",
+        "description": "Место проведения съездов лидеров мировых религий. Архитектурная пирамида в сердце Астаны.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1173,
+        "longitude": 71.4568
+    },
+    {
+        "name": "Мечеть Нур Астана",
+        "description": "Одна из самых красивых мечетей города, построенная при поддержке Катара.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1308,
+        "longitude": 71.4365
+    },
+    {
+        "name": "КазМедиа Центр",
+        "description": "Комплекс телерадиовещания, где расположены крупнейшие медиа Казахстана.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1282,
+        "longitude": 71.4317
+    },
+    {
+        "name": "Триумфальная арка «Мәңгілік Ел»",
+        "description": "Арка символизирует независимость страны и вечные ценности казахского народа.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.0808,
+        "longitude": 71.3855
+    },
+    {
+        "name": "Парк Жетысу",
+        "description": "Красивый парк с аллеями, фонтанами и детскими площадками в центре нового города.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.0912,
+        "longitude": 71.4170
+    },
+    {
+        "name": "Стадион «Астана Арена»",
+        "description": "Футбольный стадион с раздвижной крышей, крупнейший спортивный объект города.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1021,
+        "longitude": 71.3964
+    },
+    {
+        "name": "Ледовый дворец «Алау»",
+        "description": "Один из лучших катков мира, место проведения международных соревнований по конькобежному спорту.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.0966,
+        "longitude": 71.3967
+    },
+    {
+        "name": "Центральный концертный зал «Казахстан»",
+        "description": "Огромный концертный зал в футуристическом стиле, одно из самых красивых зданий Астаны.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1227,
+        "longitude": 71.4745
+    },
+    {
+        "name": "Oceanarium «Думан»",
+        "description": "Океанариум с морскими животными и самым длинным стеклянным туннелем в Центральной Азии.",
+        "image": "https://media.istockphoto.com/id/2162521331/photo/aerial-view-of-the-town-at-night-and-the-baiterek-tower-in-astana-kazakhstan.jpg?s=1024x1024&w=is&k=20&c=h51DZn9wVUA8jcR-HsUzAT6E04kA6T4IJkeJrHRGrFU=",
+        "latitude": 51.1422,
+        "longitude": 71.4257
+    }
+]
